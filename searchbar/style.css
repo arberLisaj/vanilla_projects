@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#inputBox {
+  display: block;
+  height: 50px;
+  width: 400px;
+  padding: 5px;
+  /* outline: 1px solid blue; */
+  border-radius: 10px;
+  margin: 30px auto;
+}
+.content_container {
+  margin: auto;
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: gainsboro;
+  border-radius: 10px;
+  padding-block: 20px;
+}
+h1 {
+  font-weight: normal;
+  margin-block: 10px;
+}
