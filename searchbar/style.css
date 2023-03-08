@@ -9,18 +9,19 @@ body {
 #inputBox {
   display: block;
   height: 50px;
-  width: 400px;
-  padding: 5px;
+  width: 60%;
+  padding: 5px 10px;
   outline: none;
   border: none;
   border-radius: 4px;
   margin: 30px auto;
   background-color: #40414f;
   color: white;
+  font-size: 17px;
 }
 .content_container {
   margin: auto;
-  max-width: 80%;
+  max-width: 60%;
   display: flex;
   flex-direction: column;
   align-items: center;
